@@ -1,0 +1,74 @@
+|Changelog| - Bricks are added to i1.1.
+|Changelog| - Prismarine is added to i1.1.
+|Changelog| - Concrete is added with pom and pbr to i1.1.
+|Changelog| - Gold block with pom and pbr to i1.1.
+|Changelog| - Legacy Grass now has pom and pbr.
+|Changelog| - Cobblestone is added.
+|Changelog| - Obsidian is added.
+|Changelog| - Grass 2.0 is added.
+|Changelog| - Gold is added.
+|Changelog| - Sand 2.0 is added!
+|Changelog| - Diamond blocks are added.
+|Changelog| - Ice is added.
+|Changelog| - Wool is updated.
+|Changelog| - Wood Planks 2.0 is added.
+|Changelog| - Iron 2.0 is added.
+|Changelog| - Lime concrete.
+|Changelog| - New rails.
+|Changelog| - New gravel.
+|Changelog| - New stone.
+|Changelog| - new stone walls.
+|Changelog| - Iron 2.0 is added.
+|Changelog| - Variants of wood planks are added.
+|Changelog| - Asphalt is added.
+|Changelog| - Concrete 2.0 is added.
+|Changelog| - Glass and stained glass is added.
+|Changelog| - Acacia leaves is added.
+|Changelog| - Dark oak leaves is added.
+|Changelog| - Black stained glass is added.
+                                ---R3 Released---
+                                   ---R4 Begins---
+|Changelog| - Mossy variant of the cobblestone is added.
+|Changelog| - Minor updated to all POM PBR blocks.
+|Changelog| - Major updates to Fresnel on all blocks
+|Changelog| - Models for oak and acacia leaves added.
+|Changelog| - SSS added on many blocks
+|Changelog| - Proper Fresnel setup up on all blocks
+|Changelog| - Proper SSS setup on all blocks.
+|Changelog| - Updated oak leaves textures added.
+|Changelog| - All textured blocks will have "[OR]" written on them.
+|Changelog| - Major GUI changes
+|Changelog| - Bedrock RTX Version is now released publicly on Patreon only. [Currently experimental]
+|Changelog| - Major corrections on roughness and normals.
+|Changelog| - Ferrocement is added.
+|Changelog| - Cylindrical Iron rods are added.
+|Changelog| - Major changes to POM.
+|Changelog| - Currently stabilised version stated as r4 WIP 2.1
+|Changelog| - Jungle Log is added.
+|Changelog| - Red Glazed Terracotta added.
+|Changelog| - Basalt is added
+|Changelog| - Cardboard is added
+|Changelog| - CTM fixed.
+|Changelog| - Clay is added.
+|Changelog| - Diamond Block updated.
+|Changelog| - Farmland is added.
+|Changelog| - Wheat is added.
+|Changelog| - Fern is added.
+|Changelog| - Iron block updated.
+|Changelog| - Jungle leave is added
+|Changelog| - Moss block is added
+|Changelog| - Red Sand is  added
+|Changelog| - Tall Grass is added.
+|Changelog| - Vines are added.
+|Changelog| - Diamond Armor is added.
+|Changelog| - Gold Armor is added.
+|Changelog| - Iron armor is added.
+|Changelog| - Pot is added.
+|Changelog| - Showpieces are added.
+|Changelog| - Scaffolding is added.
+|Changelog| - Tables are added.
+|Changelog| - Sand ctm is updated.
+|Changelog| - Grass ctm is updated.
+|Changelog| - Item frames are added
+|Changelog| - Oak Trapdoor is added.
+|Changelog| - Iron Trapdoor is added.

@@ -1,0 +1,100 @@
+Copyright (C) 2021 Wabbabrick
+
+All Rights Reserved unless otherwise explicitly stated.
+You can always find the latest version on https://www.patreon.com/wabbabrick
+
+  By installing, downloading, storing a copy of or using this project, 
+you agree to the terms and conditions detailed below.
+
+
+                       TERMS AND CONDITIONS
+
+  0. Definitions.
+  
+  "Copyright" also means copyright-like laws that apply to other kinds of
+works, such as semiconductor masks.
+
+  "The Project", also named "Brixel" refers to any copyrightable work licensed under this
+License. Each licensee is addressed as "you". "Licensees", "users" and
+"recipients" may be individuals or organizations.
+
+  "The Author" refers to the original creator of this project and its contents. 
+
+  To "modify" a work means to copy from or adapt all or part of the work
+in a fashion requiring copyright permission, other than the making of an
+exact copy.  The resulting work is called a "modified version" of the
+earlier work or a work "based on" the earlier work.
+
+  A "covered work" means either the unmodified Project or a work based
+on the Project.
+
+  To "propagate" a work means to do anything with it that, without
+permission, would make you directly or secondarily liable for infringement
+under applicable copyright law, except executing it on a computer or
+modifying a private copy.  Propagation includes copying, distribution
+(with or without modification), making available to the public, and in
+some countries other activities as well.
+
+  To "convey" a work means any kind of propagation that enables other
+parties to make or receive copies.  Mere interaction with a user through a
+computer network, with no transfer of a copy, is not conveying.
+
+  1. Intellectual property
+
+  The project, also named "Brixel", as well as "Wabbabrick", is the intellectual property of 
+Sebastian Grzesiak (also referred to as 'Wabbabrick'), and the copyright belongs to him.
+
+  2. Redistribution
+
+  Public propagation of this project or parts of it requires you to
+exclusively use the official links provided by the author. This means that
+independently hosting a copy of this project and propagating it using this
+hosted version is prohibited. The usage of link monetization services on
+redistribution is strictly prohibited.
+  Websites and Blogs collecting projects similar to this project are
+required to ask for explicit permission before adding this project to
+its database.
+  Claiming and/or renaming my resourcepack or its contents by 
+users other than the author is strictly prohibited.
+
+  3. Private Modifications
+
+  Users are allowed to create private modifications of this project
+without explicit permission. Redistribution of these modified versions
+however require explicit permission by the author of the original project.
+
+
+  4. Public Modifications
+
+  Public redistribution of a modified version of this project is strictly prohibited, 
+unless explicit permission is given from the original author.
+
+  5. Usage
+  Users are allowed to use this project for personal needs. 
+Furthermore, users are allowed to use this project for streaming, videos, screenshots. 
+Crediting is of the project is preferable but not mandatory.
+
+
+  6. Usage of parts of this project as part of another, original project
+
+  Using this projects contents as part of another, original
+project requires explicit permission from this projects author.
+  Furthermore this project, its author and the parts used have to be
+clearly credited. Additionally any means of monetization on this modified
+version are prohibited unless explicit permission is given.
+
+  7. Liability
+
+  The project is provided "as is", without warranty of any kind, express
+or implied, including but not limited to the warranties of merchantability,
+fitness for a particular purpose and noninfringement. In no event shall the
+author or copyright holders be liable for any claim, damages or other
+liability, whether in an action of contract, tort or otherwise, arising from,
+out of or in connection with the project or the use or other dealings in the
+project.
+
+
+  8. Disclaimer
+
+  This License and its terms are subject to change and review at any time
+by this projects author.

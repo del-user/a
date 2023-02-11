@@ -1,0 +1,52 @@
+BRIXEL 2.8 - FREQUENTLY ASKED QUESTIONS:
+
+- Where can I download the latest release of Brixel?
+  You can always find the newest version on https://www.patreon.com/wabbabrick. You can find the pack as an attachment to a post tagged as “Download - latest”.
+
+- What is the development status of Brixel?
+  The pack is currently WIP and in a “playable state”, which means that all of the “basic” blocks (about 1/2 of all blocks) are done. With your support, I will continue working on the pack (adding new blocks, items, mobs and fixing issues) until Brixel is a complete product.
+
+- How often will new updates drop?
+  Updates are planned at least once a month.
+
+- Why does Brixel require shaders to work?
+  The complex geometry of the blocks in the pack is created using parallax occlusion mapping, which only some of the shaders support. If the blocks were modeled as actual geometry, no PC would be able to handle it. 
+
+- Does Brixel support other shaders as well?
+  Yes, you can use the BSL version with other non-ray tracing shaders as well, most of them should work.
+  Just make sure to do proper tweaks in shader options, so that the textures look as intended.
+
+- Can I run it on my PC?
+  The pack is made to be FPS-optimized. Bear in mind though that it comes in 128x, 256x, 512x and 1024x textures, which still need an above-average setup in order to work smooth. My setup is a laptop with i7-9750H, GTX 1660 Ti. This gives me 40 FPS with SEUS and 70 FPS with BSL, on a 512x pack.
+
+- I'm having performance issues since the last update.
+  Texturing more blocks involves that so called "texture atlas" that Minecraft uses for loading textures goes to higher resolution. This results in some FPS drop, that may be noticeable with the latest update - it concerns especially 1024x versions. This is pretty much standard and unavoidable for all resource packs, but we will be working on a solution that will make Brixel run smoother.
+
+- How do I install Brixel?
+  Detailed installation instructions are provided with the pack. There is also a step-by-step installation video - check the link provided in #🔨installation-and-setup channel on Discord. Alternatively, the links are provided on Patreon, in the posts in "Download - latest" section.
+
+- How to install Optifine and shaders?
+  Detailed installation instructions are provided with the pack. There is also a step-by-step installation video - check the link provided in #🔨installation-and-setup channel on Discord. Alternatively, the links are provided on Patreon, in the posts in "Download - latest" section.
+
+- How do I fix different issues with the textures, e.g. the blocks are flat and show no bricks.
+  Make sure that you follow the installation tutorial located in #🔨installation-and-setup on Discord, as well as checking the instructions that are provided with the pack. Make sure that Optifine and shaders are installed (use the versions described in the tutorial).
+  * For issues with BSL: Make sure that "parallax occlusion mapping" [Video Settings -> Shaders -> Shader Options -> Material -> Parallax] and "advanced textures" [Video Settings -> Shaders -> Shader Options -> Material] are enabled.
+
+- How do I fix performance issues with the pack / the game won’t start?
+  There are a few tweaks that can be done to make Brixel run smoother and/or function as intended. Following tweaks can be done:
+  * Reduce render distance [Options -> Video Settings]
+  * Set Max Framerate to "Unlimited" [Options -> Video Settings]
+  * Allocate more RAM to Minecraft (search Youtube for tutorials on how to do that)
+
+- Why do the blocks have an “undefined border” when you look at them from sharp angle?
+  A minor downside of using parallax occlusion mapping for creating textures is that the blocks have an undefined border when you look at them from sharp angle. It’s not possible get rid of this effect, but I’m going to enhance how the blocks look in the future updates.
+
+- Why do certain parts of snow appear to be extremely shiny at night time?
+  There is an issue with the BSL shaders that can result in the reflective parts of snow being bright white at night time. 
+  This will be fixed in the future update. Temporary fix (if it occurs): make sure that the "Material Format" in [Video Settings -> Shaders -> Shader Options -> Material] is set to "labPBR 1.3" and not "SEUS PBR"
+
+- Are you planning to release Brixel for Bedrock version of Minecraft?
+  With Patron support, this is highly possible in the future.
+
+- Is there anything else that I can doo to get better FPS?
+  Yes. By disabling custom mobs, your FPS should get significantly better. [Options -> Video Settings -> Quality -> set Custom Entity Models to "OFF".

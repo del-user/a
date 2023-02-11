@@ -1,0 +1,9 @@
+{
+  "sand": {
+    "isotropic": false,
+    "textures": "sand",
+    "brightness_gamma": 0.55,
+    "sound": "sand"
+    }
+  }
+}

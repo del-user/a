@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Pack By §6Digs §rand ported by §bPixell Studio§r | A simplistic twist on the default Minecraft textures | @Pixell17 | @Dialglex | Visit §9www.pixellstudio.online§r for more packs and maps | © 2020, Pixell Studio",
+        "name": "Dig's Simple Pack",
+        "uuid": "9b2e18ee-b526-406c-a6b4-736f740809ef",
+        "version": [0, 0, 1],
+        "min_engine_version": [ 1, 14, 0 ]
+    },
+    "modules": [
+        {
+            "description": "Pack By §6Digs §rand ported by §bPixell Studio§r | A simplistic twist on the default Minecraft textures | @Pixell17 | @Dialglex | Visit §9www.pixellstudio.online§r for more packs and maps | © 2020, Pixell Studio",
+            "type": "resources",
+            "uuid": "5112159b-c1e6-49b3-9248-363facc8cda3",
+            "version": [0, 0, 1]
+        }
+    ]
+}

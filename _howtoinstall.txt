@@ -1,0 +1,5 @@
+Installation Instructions for Minecraft Bedrock Edition:
+
+1) Drag the .mcpack file onto your desktop
+2) Double click the file on your desktop
+3) The pack will automatically install after launching your game.
